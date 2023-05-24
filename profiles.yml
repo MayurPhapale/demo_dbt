@@ -1,0 +1,13 @@
+demo_dbt:
+  outputs:
+    dev:
+      account: ag10737.ap-southeast-1
+      database: DBT_DEMO
+      password: Nanasaheb@123
+      role: ACCOUNTADMIN
+      schema: DBT
+      threads: 1
+      type: snowflake
+      user: PHAPALEMAYUR44
+      warehouse: COMPUTE_WH
+  target: dev
