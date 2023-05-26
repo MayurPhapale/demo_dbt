@@ -3,7 +3,7 @@ demo_dbt:
     dev:
       account: ag10737.ap-southeast-1
       database: DBT_DEMO
-      password: Nanasaheb@123
+      password: .........
       role: ACCOUNTADMIN
       schema: DBT
       threads: 1
